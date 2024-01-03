@@ -11,4 +11,5 @@ use *bash ./scripts/ETTM.sh* to reproduce the code
 
 ## Citation
 If you find this repo or our work useful for your research, please consider citing the paper
-Considering Nonstationary within Multivariate Time Series with Variational Hierarchical Transformer for Forecasting
+
+**Considering Nonstationary within Multivariate Time Series with Variational Hierarchical Transformer for Forecasting**
