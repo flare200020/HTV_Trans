@@ -1,4 +1,4 @@
-# HTV_Trans accepted by AAAI 2024
+# Considering Nonstationary within Multivariate Time Series with Variational Hierarchical Transformer for Forecasting accepted by AAAI 2024
 
 Multivariate time series forecasting, Probalistic generative model
 
